@@ -31,6 +31,8 @@ export default function Hero() {
           <a href="https://www.linkedin.com/in/sujal-belwal-35376b185/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B71NkASjLQsyNPL5Fc6RLIA%3D%3D" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="hover:text-blue-600 dark:hover:text-[#39FF14] hover:scale-110 transition" />
           </a>
+                  <a href="https://drive.google.com/drive/folders/1whoHfhUoPbAPyroArrA9gI3EwtnRN7sl?usp=drive_link">Videos</a>
+
         </div>
       </div>
 
